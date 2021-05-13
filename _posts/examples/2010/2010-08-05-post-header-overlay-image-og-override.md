@@ -1,14 +1,10 @@
 ---
 title: "Post: Overlay Image with OpenGraph Override"
-hidden: true
-published: false
+hidden: false
+published: true
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  og_image: /assets/images/page-header-og-image.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "Learn More"
-      url: "https://unsplash.com"
+  overlay_image: /assets/img/wallpapertip_software-developer-bg01.jpg
+  og_image: /assets/img/wallpapertip_software-developer-bg01.jpg
 categories:
   - Layout
   - Uncategorized
@@ -30,3 +26,22 @@ header:
     - label: "Learn More"
       url: "https://unsplash.com"
 ```
+
+  
+<!--
+header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  og_image: /assets/images/page-header-og-image.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Learn More"
+      url: "https://unsplash.com"
+
+header:
+  overlay_image: /assets/img/wallpapertip_software-developer-bg01.jpg
+  og_image: /assets/img/wallpapertip_software-developer-bg01.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "Learn More"
+      url: "https://unsplash.com"
+-->

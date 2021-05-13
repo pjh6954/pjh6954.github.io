@@ -24,7 +24,7 @@ description              : "iOS Developer" # "An amazing website." # META태그 
 url                      : "https://pjh6954.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" # GitBlog 호스트 주소
 baseurl                  : # the subpath of your site, e.g. "/blog" # subPath https://7271kim.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository               : "pjh6954/pjh6954.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" # 홈페이지 기본 티져 이미지
+teaser                   : "/assets/img/wallpapertip_software-developer-bg01.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png" # 홈페이지 기본 티져 이미지
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" # 타이틀 옆에 작게 들어갈 이미지.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title # 홈페이지 최 상탄에 들어갈 타이틀
 # breadcrumbs            : false # true, false (default) # 브래드크럼 사용 여부 true, false (default) , _data/ui-text.yml에 다국어 지원 가능합니다.
