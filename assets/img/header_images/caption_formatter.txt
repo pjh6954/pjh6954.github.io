@@ -1,0 +1,75 @@
+---
+//clement_helardot
+header : 
+    teaser: "/assets/img/header_images/clement_helardot/bg01.jpg"
+    overlay_image: /assets/img/header_images/clement_helardot/bg01.jpg
+    og_image: /assets/img/header_images/clement_helardot/bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Clément Hélardot*](https://unsplash.com/@clemhlrdt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+//ferenc_almasi
+header : 
+    teaser: "/assets/img/header_images/ferenc_almasi/bg01.jpg"
+    overlay_image: /assets/img/header_images/ferenc_almasi/bg01.jpg
+    og_image: /assets/img/header_images/ferenc_almasi/bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Ferenc Almasi*](https://unsplash.com/@flowforfrank?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+header : 
+    teaser: "/assets/img/header_images/ferenc_almasi/bg02.jpg"
+    overlay_image: /assets/img/header_images/ferenc_almasi/bg02.jpg
+    og_image: /assets/img/header_images/ferenc_almasi/bg02.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Ferenc Almasi*](https://unsplash.com/@flowforfrank?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+//florian_olivo
+header : 
+    teaser: "/assets/img/header_images/florian_olivo/bg01.jpg"
+    overlay_image: /assets/img/header_images/florian_olivo/bg01.jpg
+    og_image: /assets/img/header_images/florian_olivo/bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Florian Olivo*](https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+//kevin_ku
+header : 
+    teaser: "/assets/img/header_images/kevin_ku/bg01.jpg"
+    overlay_image: /assets/img/header_images/kevin_ku/bg01.jpg
+    og_image: /assets/img/header_images/kevin_ku/bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Kevin Ku*](https://unsplash.com/@ikukevk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+//lukenn_sabellano
+header : 
+    teaser: "/assets/img/header_images/lukenn_sabellano/bg01.jpg"
+    overlay_image: /assets/img/header_images/lukenn_sabellano/bg01.jpg
+    og_image: /assets/img/header_images/lukenn_sabellano/bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Lukenn Sabellano*](https://unsplash.com/@luferlex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+//safar_safarov
+header : 
+    teaser: "/assets/img/header_images/safar_safarov/bg01.jpg"
+    overlay_image: /assets/img/header_images/safar_safarov/bg01.jpg
+    og_image: /assets/img/header_images/safar_safarov/bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Safar Safarov*](https://unsplash.com/@codestorm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+//shahadat_rahman
+header : 
+    teaser: "/assets/img/header_images/shahadat_rahman/bg01.jpg"
+    overlay_image: /assets/img/header_images/shahadat_rahman/bg01.jpg
+    og_image: /assets/img/header_images/shahadat_rahman/bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Shahadat Rahman*](https://unsplash.com/@hishahadat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+
+
+
+
+header : 
+    teaser: "/assets/img/header_images//bg01.jpg"
+    overlay_image: /assets/img/header_images//bg01.jpg
+    og_image: /assets/img/header_images//bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [**]()"
+
+header : 
+    teaser: "/assets/img/header_images//bg01.jpg"
+    overlay_image: /assets/img/header_images//bg01.jpg
+    og_image: /assets/img/header_images//bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [**]()"
+
+
+
+
+---

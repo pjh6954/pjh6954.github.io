@@ -3,8 +3,10 @@ title: "Layout: Post with Table of Contents"
 hidden: false
 published: true
 header:
-  image: assets/images/unsplash-image-9.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  # image: assets/images/unsplash-image-9.jpg
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: "/assets/img/header_images/shahadat_rahman/bg01.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Shahadat Rahman*](https://unsplash.com/@hishahadat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 tags:
   - table of contents
 toc: true

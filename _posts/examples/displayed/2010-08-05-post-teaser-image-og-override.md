@@ -1,13 +1,14 @@
 ---
 title: "Post: Teaser Image with OpenGraph Override"
-hidden: true
-published: false
+hidden: false
+published: true
 header:
-  teaser: /assets/images/page-header-teaser.png
-  og_image: /assets/images/page-header-og-image.png
+  teaser: /assets/img/wallpapertip_software-developer-bg01.jpg # /assets/images/page-header-teaser.png
+  og_image: /assets/img/wallpapertip_software-developer-bg01.jpg # /assets/images/page-header-og-image.png
 categories:
-  - Layout
-  - Uncategorized
+  # - Layout
+  # - Uncategorized
+  - Examples-GitBlog
 tags:
   - edge case
   - image

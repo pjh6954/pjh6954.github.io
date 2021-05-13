@@ -1,5 +1,11 @@
 ---
 title: Github 블로그 Author_profile에 category 추가하기
+header : 
+    # teaser : "/assets/img/posts_imgs/20210513/img_01.png"
+    teaser: "/assets/img/header_images/shahadat_rahman/bg01.jpg"
+    overlay_image: /assets/img/header_images/shahadat_rahman/bg01.jpg
+    og_image: /assets/img/header_images/shahadat_rahman/bg01.jpg
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com), Photo by [*Shahadat Rahman*](https://unsplash.com/@hishahadat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 hidden: false
 publish: true
 search: true
