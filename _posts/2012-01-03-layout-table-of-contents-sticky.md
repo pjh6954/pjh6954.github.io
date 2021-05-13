@@ -6,6 +6,8 @@ tags:
   - table of contents
 toc: true
 toc_sticky: true
+categories:
+  - Examples-GitBlog
 ---
 
 "Stick" table of contents to the top of a page by adding `toc_sticky: true` to its YAML Front Matter.
