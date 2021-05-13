@@ -5,3 +5,75 @@
     </a>
   </li>
 -->
+<!--
+https://www.google.com/search?q=github+blog+category+counter&sxsrf=ALeKk021hnoVmr1pzBcYrdIC7HRmiuaY9Q%3A1620805326958&ei=zoabYMj8OZH30ASAgLjgAQ&oq=github+blog+category+counter&gs_lcp=Cgdnd3Mtd2l6EAM6BAgjECc6BQgAELEDOgQIABBDOgcIABCHAhAUOgIIADoFCAAQywE6BAgAEB46BggAEAgQHjoFCCEQoAE6BAghEBVQllRYi3tgq3xoAHAAeAKAAY4DiAGaIJIBCDAuMTIuNS40mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=gws-wiz&ved=0ahUKEwjIm42u0sPwAhWRO5QKHQAADhwQ4dUDCA4&uact=5
+http://blog.knowgari.com/make-category/
+https://moon9342.github.io/jekyll-struct
+
+-->
+
+<hr>
+<tag>Categories</tag>
+
+{% assign categories_max = 0 %}
+{% for category in site.categories %}
+  {% if category[1].size > categories_max %}
+    {% assign categories_max = category[1].size %}
+  {% endif %}
+{% endfor %}
+
+{% for i in (1..categories_max) reversed %}
+  {% for category in site.categories %}
+    {% if category[1].size == i %}
+      <ul style="padding-top: 0px; padding-bottom: 0px;">
+        <a href="/categories/#{{ category[0] | slugify }}">
+          <strong style="font-size: 15px;">{{ category[0] }}</strong> <span class="taxonomy__count" style="font-size: 13px;">{{ i }}</span>
+        </a>
+      </ul>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<!--
+<ul>
+  <tag>
+    <a href="" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      Github
+    </a>
+  </tag>
+</ul>
+<ul>
+  <tag>
+    <a href="" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      iOS
+    </a>
+  </tag>
+  <li>
+    <a href="" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Swift
+    </a>
+  </li>
+  <li>
+    <a href="" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> SwiftUI
+    </a>
+  </li>
+  <li>
+    <a href="" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> RxSwift
+    </a>
+  </li>
+</ul>
+<ul>
+  <tag>
+    <a href="" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      Life
+    </a>
+  </tag>
+  <li>
+    <a href="" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> 맛집
+    </a>
+  </li>
+</ul>
+-->
