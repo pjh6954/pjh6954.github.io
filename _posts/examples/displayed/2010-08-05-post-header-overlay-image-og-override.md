@@ -6,8 +6,9 @@ header:
   overlay_image: /assets/img/wallpapertip_software-developer-bg01.jpg
   og_image: /assets/img/wallpapertip_software-developer-bg01.jpg
 categories:
-  - Layout
-  - Uncategorized
+  # - Layout
+  # - Uncategorized
+  - Examples-GitBlog
 tags:
   - edge case
   - image
