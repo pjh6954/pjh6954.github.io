@@ -4,6 +4,8 @@ hidden: false
 published: true
 tags:
   - table of contents
+categories:
+  - Examples-GitBlog
 ---
 
 Tests table of contents with multiple levels to verify indentation is readible via helper include (deprecated).
